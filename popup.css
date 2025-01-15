@@ -1,0 +1,85 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    background-color: #FBF5E5;
+    text-align: center;
+    padding: 1px;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+  
+#copyCatDiv{
+    width: 400px;
+    min-height: 100px;
+    max-height: 400px;
+    overflow: auto;
+}
+.tab {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #FBF5E5;
+}
+.content {
+    margin-top: 10px;
+}
+.timestamp {
+    color: #666;
+    font-size: 0.8em;
+}
+
+.clearButton {
+    background-color: #ad2ed1;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.clearButton:hover {
+    background-color: #9d2abd;
+}
+
+.copyAllButton {
+    background-color: #2ed1bb;
+    color: white;
+    border: none;
+    margin-right: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.copyAllButton:hover {
+    background-color: #2ab9a6;
+}
+
+.text-container {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.deleteButton {
+    margin-left: 10px;
+    background-color: #ff4d4d; 
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.deleteButton:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
