@@ -1,4 +1,4 @@
-# Copy Cat Extension
+# Copy 'n Carry Extension
 
 This Chrome extension captures text and link data when a user copies content from a webpage. The captured data is then sent to the background script for further processing and displayed onto the popup based on the tab from which it has been copied from. 
 
@@ -13,7 +13,7 @@ This Chrome extension captures text and link data when a user copies content fro
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Taruna-M/CopyCat-Extension.git
+   git clone https://github.com/Taruna-M/Copy-N-Carry-Extension.git
    ```
 2. **Load the Extension in Chrome**:
    - Open Chrome and go to `chrome://extensions/`.
