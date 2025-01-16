@@ -8,6 +8,12 @@ h1 {
     padding: 1px;
 }
 
+#logo {
+    height: 80px;
+    width: 80px;
+    vertical-align: middle;
+}
+
 .pacifico-regular {
     font-family: "Pacifico", serif;
     font-weight: 400;

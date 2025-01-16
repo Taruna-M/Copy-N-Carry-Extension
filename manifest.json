@@ -14,11 +14,11 @@
     ],
     "action": {
         "default_popup": "popup.html",
-        "default_title": "CopyCat - Copy and save content"
+        "default_title": "Copy 'n Carry - Copy and save content"
     },
     "icons": {
-        "16": "./icons/2.png",
-        "32": "./icons/2.png",
+        "16": "./icons/3.png",
+        "32": "./icons/3.png",
         "48": "./icons/2.png",
         "128": "./icons/1.png"
      },
