@@ -46,7 +46,7 @@ async function getExtensionData() {
                 textDiv.innerHTML = '<h3>Copied Texts</h3>';
                 tabText.forEach((text, index) => {
                     const textWithinDiv = document.createElement('div');
-                    textWithinDiv.innerHTML = `<div>
+                    textWithinDiv.innerHTML = `<div class="text-container">
                     <span style="color: #A12568; font-size: 20px">${index+1}. ${text.content}</span>
                     <button class="deleteButton" data-tab-url="${tabUrl}" data-type="text" data-index="${index}">Delete</button>
                     </div>

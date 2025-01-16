@@ -65,21 +65,20 @@ h1 {
 
 .text-container {
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
 }
 
 .deleteButton {
-    margin-left: 10px;
-    background-color: #ff4d4d; 
+    background-color: #ad2ed1;
     color: white;
     border: none;
     padding: 5px 10px;
-    cursor: pointer;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .deleteButton:hover {
-    background-color: #cc0000; /* Darker red on hover */
+    background-color: #9d2abd;
 }

@@ -1,5 +1,5 @@
 {
-    "name": "CopyCat",
+    "name": "Copy 'n Carry",
     "version": "1.0",
     "description": "saves any text / links copied from any website and groups them by the source tab",
     "permissions": ["tabs", "storage", "clipboardRead", "clipboardWrite"],
